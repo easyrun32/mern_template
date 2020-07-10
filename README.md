@@ -2,5 +2,6 @@
 	title="docker" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="Heroku"
 	title="heroku" width="50" height="50" />
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql"
+	title="mysql" width="50" height="50" />
     
-
